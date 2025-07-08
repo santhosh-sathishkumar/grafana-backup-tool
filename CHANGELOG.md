@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 # [1.5.1] - 2025-07-08
 
 ### Changed
-- Grafana removes "api/auth/keys" endpoint used for auth check, replace with "api/serviceaccounts/search"
+- In Grafana latest release API keys deprecated and removed "api/auth/keys" endpoint used for auth check, replace with "api/serviceaccounts/search"
 
 # [1.5.0] - 2023-11-10
 
